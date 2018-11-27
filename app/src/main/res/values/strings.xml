@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Robot AQ</string>
+    <string name="dia_chi_ip">Địa Chỉ IP: </string>
+    <string name="cong">Cổng: </string>
+
+    <string name="den1">Up</string>
+    <string name="den2">Down</string>
+    <string name="den3">Left</string>
+    <string name="den4">Right</string>
+    <string name="den5">Stop</string>
+    <string name="ketnoiServer">Kết Nối</string>
+    <string name="port">Port</string>
+    <string name="thongbao_ok">Đã kết nối tới Server</string>
+    <string name="bathet">A</string>
+    <string name="tathat">B</string>
+    <string name="tenweb">Arduino360.com</string>
+
+</resources>
